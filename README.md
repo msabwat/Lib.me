@@ -1,22 +1,12 @@
+Lib.me
+-------------
+Libft: 
+My implementation of standard libc using syscalls only.
 
-# Myorga.
-
-Configurer ZSH
-Configurer VIM
-Librairie de Tests C (++ pour les autres)
-Libmyfts
-Libalgo
-
-# Internship
-
-Exam C 
-1 new person everyday 
-Avancer sur la branche 
-Faire mon portfolio (game - sys. - web)
-
-# Freelance
-
-Creme de la creme / online presence 
-The family / Station F 
-Projet A 
-Projet B
+TODO:
+#Add get_next_line
+#Add ft_printf
+#Add tests folder to libft
+#Add Libalgo
+#LibUnit 
+#libClass (python, java)
