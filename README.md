@@ -1,6 +1,6 @@
 Lib.me
 -------------
-Generates static and dynamic lib files to include to my projects.
+Generates libft.a file to include to C projects.
 
 Libft: 
-My implementation of standard libc using syscalls only.
+My implementation of standard libc allowing write() read() open() malloc() free() only.
